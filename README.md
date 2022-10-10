@@ -3,15 +3,8 @@
 La contribución de la mujer a la computación es mayor de lo que en realidad se conoce, fueron mujeres las que realizaron grandes descubrimientos que cambiarían nuestras vidas a nivel tecnológico, aqui hablatemos de alguna de ellas.
 
 ## Mujeres de la Computación
-[Hedy Lamarr](hedylamarr.md) 
-
-
-## Radia Joy Perlman
-![image](radia.jpg)
--  Radia Joy Es una creadora de software e ingeniera de redes, experta en seguridad. También conocida como la Madre de Internet actualmente trabaja para Dell. Anteriormente estuvo trabajando para Intel, para la que consiguió más de 47 patentes.
-Es famosa por ser la creadora del protocolo Spanning Tree (STP), este protocolo es fundamental para permitir la redundancia de rutas en las redes de área local (LAN).
-
-- [Más sobre Radia Joy Perlman](https://es.wikipedia.org/wiki/Radia_Perlman)
+- [Hedy Lamarr](hedylamarr.md) 
+- [Radia Joy Perlman](radiajoy.md)
 
 ## Joan Clarke
 ![image]()
