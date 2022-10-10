@@ -1,11 +1,10 @@
 # `Contribucion de la Mujer a la Computacion`
 
+La contribución de la mujer a la computación es mayor de lo que en realidad se conoce, fueron mujeres las que realizaron grandes descubrimientos que cambiarían nuestras vidas a nivel tecnológico, aqui hablatemos de alguna de ellas.
 
-## Hedy Lamarr
-![image](hedy.jpg)
-- Hedy Lamarr fue una actriz de cine e inventora austriaca, fue coinventora de la primera versión de las comunicaciones inalámbricas de largas distancias (WI-FI).
-En 1997, Lamarr y George Antheil fueron honrados conjuntamente con el Premio Pioneer de la Electronic Frontier Foundation, Lamarr también fue la primera mujer en recibir el Premio BULBIE también conocido como el escor de la ivención.
-- [Más sobre Hedy Lamarr](https://es.wikipedia.org/wiki/Hedy_Lamarr)
+## Mujeres de la Computación
+[Hedy Lamarr](hedylamarr.md) 
+
 
 ## Radia Joy Perlman
 ![image](radia.jpg)
@@ -22,3 +21,4 @@ Después de la guerra, Clarke trabajó para el GC&CS donde conoció a su marido,
 - [Más sobre Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke)
 
 ## 
+
