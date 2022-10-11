@@ -8,4 +8,7 @@
 * En 1946, Clarke fue nombrada miembro de la Orden del Imperio Británico.
 * En 1987, la British Numismatic Society premió a Clarke con la Sanford Saltus God Medal por sus trabajos sobre monedas escocesas del siglo XVI y XVII.
 
+# Curiosidad
+- Clarke fue interpretada en la pelicula The Imitation Games(2014)por la actriz británica Keira Knightley que actuaba junto a Benedict Cumberbatch como Alan Turing.
+
 - [Más sobre Joan Clarke](https://es.wikipedia.org/wiki/Joan_Clarke)
