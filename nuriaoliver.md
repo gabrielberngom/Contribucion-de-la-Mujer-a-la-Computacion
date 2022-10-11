@@ -8,4 +8,5 @@
 -  En 2020 recibió el Premio Mujeres a Seguir en Tecnología.
 -  En 2021 le otorgan el premio Rey Jaime I en la categoría de Nuevas Tecnologías.
 
+- [Más sobre Nuria Oliver](https://es.wikipedia.org/wiki/Nuria_Oliver)
 
