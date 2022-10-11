@@ -12,4 +12,6 @@ La contribución de la mujer a la computación es mayor de lo que en realidad se
 - [Nuria Oliver](nuriaoliver.md)
 
 
+## Licencias
+![image](licencia.png)
 
