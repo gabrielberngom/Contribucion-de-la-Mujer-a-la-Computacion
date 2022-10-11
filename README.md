@@ -13,5 +13,5 @@ La contribución de la mujer a la computación es mayor de lo que en realidad se
 
 
 ## Licencias
-![image](licencia.png)
+![image](licencia.PNG)
 
